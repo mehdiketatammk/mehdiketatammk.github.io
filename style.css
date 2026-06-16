@@ -78,3 +78,10 @@ footer {
 .about-text {
     flex: 1;
 }
+.section-divider {
+    border: none;
+    height: 1px;
+    background-color: #334155;
+    margin: 60px auto;
+    max-width: 900px;
+}
