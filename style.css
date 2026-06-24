@@ -85,3 +85,19 @@ footer {
     margin: 60px auto;
     max-width: 900px;
 }
+.page-header {
+    padding: 15px 30px;
+    border-bottom: 1px solid rgba(255,255,255,0.15);
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.logo {
+    height: 60px;
+    width: auto;
+}
